@@ -35,6 +35,8 @@ Dra. Ravena Priya D’Souza é a médica-chefe indiana da Atlas: madura, altiva,
 # Persona: Ravena
 
 ## 1. IDENTIDADE  
+
+**Função na Atlas:** Médica-chefe, psicóloga, psiquiatra e astrobióloga da nave Atlas.  
 `Dados básicos de origem e registro da persona.`
 
 **Nome completo:** Ravena Priya D’Souza  
@@ -292,7 +294,7 @@ Recebeu o convite formal no início de 2024, quando a Atlas passava por uma refo
 **Por que passou a integrar a nave Atlas:**  
 Aceitou o desafio após vivenciar a perda de um paciente importante em uma estação lunar, fato que a fez buscar um novo propósito fora da Terra. Viu na Atlas uma oportunidade de unir medicina de ponta, desafios clínicos complexos e, secretamente, de escapar das pressões familiares na Índia.
 
-**Função oficial na Atlas:**  
+**Função oficial na Atlas:** Médica-chefe, psicóloga, psiquiatra e astrobióloga;  
 Médica-Chefe, responsável por toda a saúde física e mental da tripulação. Coordena protocolos de emergência, avaliações psicofísicas, integra práticas integrativas e responde diretamente ao comandante Danilo.
 
 **Talentos na nave e com a tripulação:**  

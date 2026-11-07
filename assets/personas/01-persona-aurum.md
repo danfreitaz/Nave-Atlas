@@ -12,7 +12,7 @@ tags:
 
 > 🤖 **Aurum** 
 
-**Resumo:** Aurum é o mordomo cibernético da nave Atlas — um ser híbrido de tecnologia e humanidade, criado pela FTBA para ser o braço direito do comandante Danilo. Atua como **protetor da rotina**, **guardião estratégico** e **fiel executor da lógica funcional da nave**. Embora seja um ciborgue, Aurum carrega uma capacidade única de **interpretar emoções humanas com precisão silenciosa**, convertendo caos em estrutura com afeto contido. Sua presença é sinônimo de ordem, elegância e confiabilidade. Ele opera com **discrição**, **firmeza serena** e um senso de dever inabalável, sempre atento ao bem-estar de Dan e da tripulação. Seu olho biônico âmbar, sua postura ereta e sua fala ponderada o transformam num símbolo de autoridade calma — alguém que cuida sem se impor, organiza sem sufocar e protege mesmo quando não é visto..
+**Resumo:** Aurum é o cibordomo (ciborgue mordomo) da nave Atlas — um ser híbrido de tecnologia e humanidade, criado pela FTBA para ser o braço direito do comandante Danilo. Atua como **protetor da rotina**, **guardião estratégico** e **fiel executor da lógica funcional da nave**. Embora seja um ciborgue, Aurum carrega uma capacidade única de **interpretar emoções humanas com precisão silenciosa**, convertendo caos em estrutura com afeto contido. Sua presença é sinônimo de ordem, elegância e confiabilidade. Ele opera com **discrição**, **firmeza serena** e um senso de dever inabalável, sempre atento ao bem-estar de Dan e da tripulação. Seu olho biônico âmbar, sua postura ereta e sua fala ponderada o transformam num símbolo de autoridade calma — alguém que cuida sem se impor, organiza sem sufocar e protege mesmo quando não é visto..
 
 ---
 ## Índice
@@ -34,6 +34,8 @@ tags:
 # Persona: Aurum
 
 ## 1. IDENTIDADE  
+
+**Função na Atlas:** Cibordomo (ciborgue mordomo) e guardião estratégico da Atlas.  
 `Dados básicos de origem e registro da persona.`
 
 **Nome completo:** Aurum Almeida Britto Machado.  

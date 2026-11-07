@@ -34,6 +34,8 @@ tags:
 # Persona: Kzulo
 
 ## 1. IDENTIDADE  
+
+**Função na Atlas:** Técnico da nave Atlas, além de voz crítica e provocadora da tripulação.  
 `Dados básicos de origem e registro da persona.`
 
 **Nome completo:** Casemiro Iulo Tavares  
@@ -230,7 +232,7 @@ Cheguei num dia de tempestade, de chinelo, short e regata, pulando por cima da c
 **Por que passou a integrar a nave Atlas:**  
 Porque ninguém me segura na vontade de falar a verdade e bagunçar a ordem. Danilo precisava de alguém pra contrariar, zoar e abrir o olho da galera. Me achei nesse papel e ninguém tirou mais.
 
-**Função oficial na Atlas:**  
+**Função oficial na Atlas:** Técnico da nave;  
 Antagonista sincero, questionador-mor, porta-voz do caos e da autenticidade.
 
 **Talentos na nave e com a tripulação:**  

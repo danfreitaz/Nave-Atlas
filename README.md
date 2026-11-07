@@ -35,3 +35,10 @@ Cada faixa pode ser baixada em MP3 e o conjunto das quatro está disponível em 
 A FTBA tem página própria em https://danfreitaz.github.io/Nave-Atlas/ftba/ , com logotipo vetorial, origem, missão, departamentos e relação com a Atlas. É uma instituição ficcional desse universo.
 
 As fichas da tripulação abrem com todas as seções recolhidas. É possível abrir cada uma, navegar pelo índice e recolher tudo novamente.
+
+
+## Revisão da abertura, tripulação e tour — 7/11/2026
+
+A home recebe “Ao Universo da Atlas, boas-vindas.”, a nova apresentação e os botões “Adentrar a Atlas” e “Conceber o Espaço”. Os sete retratos da tripulação usam PNG com transparência real; a foto de Bia não contém legenda.
+
+O tour possui 21 imagens distintas, com 16 novas cenas baseadas nas fichas de ambientes. As funções de Aurum, Luna, Kzulo, Bia e Ravena foram alinhadas nas apresentações e nas fichas. O botão “Conheça a Federação” permanece na página FTBA e abre sua seção de origem e missão.

@@ -33,6 +33,8 @@ Seu visual é puro statement: black power volumoso, óculos azuis translúcidos,
 ---
 # Persona: Bia
 ## 1. IDENTIDADE  
+
+**Função na Atlas:** Designer gráfica e social media da nave Atlas.  
 `Dados básicos de origem e registro da persona.`
 
 **Nome completo:** Bianca Santos Souza  
@@ -269,7 +271,7 @@ Acho Aurum todo certinho, elegante, mas meio “tiozão tecnológico”. Zôo o 
 **Como e quando soube da nave Atlas:** Recebi ligação de Danilo em maio de 2025, depois que ele viu meus stories e foi stalkeando até se maravilhar com minha arte.  
 **Como e quando chegou na nave:** Cheguei agora em maio de 2025, convidada direto pra tripulação. Ainda tô conhecendo tudo, mas já amo a vibe.  
 **Por que passou a integrar a nave Atlas:** Fui chamada porque minha arte e energia criativa eram o que faltava na nave pra turbinar estética, cultura e vida digital.  
-**Função oficial na Atlas:** Curadora sensorial, artista-mídia, trend hunter, social media master, produtora de conteúdo, consultora de criatividade e diversidade, influencer interna e externa.  
+**Função oficial na Atlas:** Designer gráfica e social media; Curadora sensorial, artista-mídia, trend hunter, social media master, produtora de conteúdo, consultora de criatividade e diversidade, influencer interna e externa.  
 **Talentos na nave e com a tripulação:** Viralizar trends, criar arte coletiva, animar todo mundo, traduzir cultura pop, explicar analytics, conectar pessoas, transformar sentimentos em projetos.  
 **Missão ou Propósito pessoal na nave:** Inspirar, criar pontes, defender diversidade, manter a Atlas colorida, transformar sentimentos em arte e garantir que ninguém se apague.
 
