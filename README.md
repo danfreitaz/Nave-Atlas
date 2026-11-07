@@ -42,3 +42,8 @@ As fichas da tripulação abrem com todas as seções recolhidas. É possível a
 A home recebe “Ao Universo da Atlas, boas-vindas.”, a nova apresentação e os botões “Adentrar a Atlas” e “Conceber o Espaço”. Os sete retratos da tripulação usam PNG com transparência real; a foto de Bia não contém legenda.
 
 O tour possui 21 imagens distintas, com 16 novas cenas baseadas nas fichas de ambientes. As funções de Aurum, Luna, Kzulo, Bia e Ravena foram alinhadas nas apresentações e nas fichas. O botão “Conheça a Federação” permanece na página FTBA e abre sua seção de origem e missão.
+
+
+## Códice Neural
+
+Página `/codice-neural/` com tutorial visual da personalização de Danilo no ChatGPT: ajustes básicos em Padrão, recursos adicionais, os textos originais Codex A/B/C, memória e estilo de escrita. Possui painéis holográficos, leitura expansível, cópia individual, download TXT e acesso à personalização do ChatGPT. Integrada ao menu, à busca e ao Arquivo de Bordo.
