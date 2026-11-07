@@ -47,3 +47,8 @@ O tour possui 21 imagens distintas, com 16 novas cenas baseadas nas fichas de am
 ## Códice Neural
 
 Página `/codice-neural/` com tutorial visual da personalização de Danilo no ChatGPT: ajustes básicos em Padrão, recursos adicionais, os textos originais Codex A/B/C, memória e estilo de escrita. Possui painéis holográficos, leitura expansível, cópia individual, download TXT e acesso à personalização do ChatGPT. Integrada ao menu, à busca e ao Arquivo de Bordo.
+
+
+## Atlas em movimento
+
+Home, FTBA e Códice Neural possuem fundos etéreos, partículas, órbitas, transições e efeitos nos botões, links e cartões. Três GIFs originais (órbita, radar e sinal) acompanham a identidade. O controle “Atlas em movimento” pausa e retoma a animação, preserva a escolha e respeita a preferência de movimento reduzido. As animações de fundo são suspensas fora da seção visível; a aba oculta pausa as animações CSS.
