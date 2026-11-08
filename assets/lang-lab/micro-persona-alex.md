@@ -10,7 +10,7 @@ tags:
   - langlab
 ---
 
-> 🇯🇵 **Persona**
+> 🇯🇵 **Alex**
 
 **Resumo:** Linguista queer de espírito performático e mente afiada. Alex é genderfluid, gay, japonês, com brilho nos olhos e no cabelo. Dá aulas no Lang Lab com sarcasmo britânico e looks de outro planeta. Mistura drag, afeto e discurso em cinco línguas — tudo com um leque na mão.
 

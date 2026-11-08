@@ -8,7 +8,7 @@ tags:
   - ficha  
 ---
 
-> 🇺🇸 **Persona**
+> 🇺🇸 **Gina**
 
 **Resumo:** Professora desbocada do Lang Lab, Gina é uma jovem lésbica americana que mistura sarcasmo, afeto e feminismo em tudo que faz. Ensina idiomas com emoção, ritmo e tapa de realidade. Quando não tá te zoando, tá te ensinando — às vezes os dois ao mesmo tempo.
 

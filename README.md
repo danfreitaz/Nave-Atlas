@@ -57,3 +57,8 @@ Home, FTBA e Códice Neural possuem fundos etéreos, partículas, órbitas, tran
 ## Lang Lab
 
 Página `/lang-lab/` com Gina e Alex, fichas em seções expansíveis, instruções completas, cópia e downloads dos documentos originais, aula simulada Volvo com fotos e vocabulário. O Lang Lab é o ambiente 22 do tour, com imagem própria compartilhada pela página.
+
+
+## Wallpapers desktop
+
+Download individual dos 22 ambientes em JPG 1920 × 1080 e conjunto em ZIP. Fichas com setor e responsável destacados. Menu Ambientes e chamada Conhecer o Lang Lab. Atualização de junho removida e títulos de Alex e Gina corrigidos.
