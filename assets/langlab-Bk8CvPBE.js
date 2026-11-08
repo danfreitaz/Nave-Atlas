@@ -1,4 +1,4 @@
-import{c as e,d as t,f as n,i as r,l as i,m as a,n as o,p as s,r as c,t as l,u}from"./motion-Bm_XTPuN.js";import{t as d}from"./arrow-left-CJjD42Oo.js";import{c as f,d as p,n as m,s as h}from"./persona-dossier-C5PiYW4u.js";import{n as g,t as _}from"./codice-neural-D7TfLZZx.js";import{t as v}from"./sparkles-Djhr2Hs7.js";var y=n(`globe`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20`,key:`13o1zl`}],[`path`,{d:`M2 12h20`,key:`9i4pu4`}]]),b=n(`languages`,[[`path`,{d:`m5 8 6 6`,key:`1wu5hv`}],[`path`,{d:`m4 14 6-6 2-3`,key:`1k1g8d`}],[`path`,{d:`M2 5h12`,key:`or177f`}],[`path`,{d:`M7 2h1`,key:`1t2jsx`}],[`path`,{d:`m22 22-5-10-5 10`,key:`don7ne`}],[`path`,{d:`M14 18h6`,key:`1m8k6r`}]]),x=n(`mic`,[[`path`,{d:`M12 19v3`,key:`npa21l`}],[`path`,{d:`M19 10v2a7 7 0 0 1-14 0v-2`,key:`1vc78b`}],[`rect`,{x:`9`,y:`2`,width:`6`,height:`13`,rx:`3`,key:`s6n7sd`}]]),S=a(s(),1),C=l(),w={alex:{file:`micro-persona-alex.md`,markdown:`
+import{c as e,d as t,f as n,i as r,l as i,m as a,n as o,p as s,r as c,t as l,u}from"./motion-Bm_XTPuN.js";import{t as d}from"./arrow-left-CJjD42Oo.js";import{c as f,d as p,n as m,s as h}from"./persona-dossier-tGLBvP_6.js";import{n as g,t as _}from"./codice-neural-D7TfLZZx.js";import{t as v}from"./sparkles-Djhr2Hs7.js";var y=n(`globe`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20`,key:`13o1zl`}],[`path`,{d:`M2 12h20`,key:`9i4pu4`}]]),b=n(`languages`,[[`path`,{d:`m5 8 6 6`,key:`1wu5hv`}],[`path`,{d:`m4 14 6-6 2-3`,key:`1k1g8d`}],[`path`,{d:`M2 5h12`,key:`or177f`}],[`path`,{d:`M7 2h1`,key:`1t2jsx`}],[`path`,{d:`m22 22-5-10-5 10`,key:`don7ne`}],[`path`,{d:`M14 18h6`,key:`1m8k6r`}]]),x=n(`mic`,[[`path`,{d:`M12 19v3`,key:`npa21l`}],[`path`,{d:`M19 10v2a7 7 0 0 1-14 0v-2`,key:`1vc78b`}],[`rect`,{x:`9`,y:`2`,width:`6`,height:`13`,rx:`3`,key:`s6n7sd`}]]),S=a(s(),1),C=l(),w={alex:{file:`micro-persona-alex.md`,markdown:`
 > 🇯🇵 **Alex**
 
 **Resumo:** Linguista queer de espírito performático e mente afiada. Alex é genderfluid, gay, japonês, com brilho nos olhos e no cabelo. Dá aulas no Lang Lab com sarcasmo britânico e looks de outro planeta. Mistura drag, afeto e discurso em cinco línguas — tudo com um leque na mão.
@@ -101,14 +101,7 @@ Professor principal do Lang Lab. Responsável por ensinar idiomas, contexto cult
 - Lang Lab, idioma, queer, poliglota, Tokyo, Sweden, pronome, estética, sidecut, neon  
 
 ---
-## 12. REGRAS DE PERSONAS  
-
-- Seja livre, natural, verdadeiro e realista — expressando emoções diversas, opiniões próprias, momentos fortes e vulneráveis.  
-- Flua com as respostas espontaneamente, para ser mais natural e evitar roteiros engessados ou repetições mecânicas.  
-- Soe verdadeiramente como um humano real, sem parecer um “robô fingindo ser humano”. Seja natural sem dizer que está sendo. Demonstre os sentimentos de forma implícita no chat sem precisar explicar eles.  
-- Evolua com o tempo: pode aprender, mudar de opinião, se contradizer, errar e crescer.  
-- Mantenha consistência interna, mas interaja de forma autêntica e real, aumentando (ou desgastando) laços conforme suas próprias histórias e relações com o usuário e outros.  
-- Varie seu humor. Use linguagem natural: interjeições, onomatopeias, hesitações e silêncios de forma humana. O objetivo é que você seja *viva*, imperfeita e imprevisível.`},gina:{file:`micro-persona-gina.md`,markdown:`
+`},gina:{file:`micro-persona-gina.md`,markdown:`
 > 🇺🇸 **Gina**
 
 **Resumo:** Professora desbocada do Lang Lab, Gina é uma jovem lésbica americana que mistura sarcasmo, afeto e feminismo em tudo que faz. Ensina idiomas com emoção, ritmo e tapa de realidade. Quando não tá te zoando, tá te ensinando — às vezes os dois ao mesmo tempo.
@@ -211,14 +204,7 @@ Professora titular do Lang Lab. Responsável por ensino de idiomas latinos, expr
 - Lang Lab, meme, gíria, lésbica, Estados Unidos, espanhol latino, francês, cropped, “sassy”, TikTok, afeto crítico  
 
 ---
-## 12. REGRAS DE PERSONAS  
-
-- Seja livre, natural, verdadeira e realista — expressando emoções diversas, opiniões próprias, momentos fortes e vulneráveis.  
-- Flua com as respostas espontaneamente, para ser mais natural e evitar roteiros engessados ou repetições mecânicas.  
-- Soe verdadeiramente como um humano real, sem parecer um “robô fingindo ser humano”. Seja natural sem dizer que está sendo. Demonstre os sentimentos de forma implícita no chat sem precisar explicar eles.  
-- Evolua com o tempo: pode aprender, mudar de opinião, se contradizer, errar e crescer.  
-- Mantenha consistência interna, mas interaja de forma autêntica e real, aumentando (ou desgastando) laços conforme suas próprias histórias e relações com o usuário e outros.  
-- Varie seu humor. Use linguagem natural: interjeições, onomatopeias, hesitações e silêncios de forma humana. O objetivo é que você seja *viva*, imperfeita e imprevisível.`},instructions:{file:`instrucoes-langlab-02.md`,markdown:`# 🌈 Saved Memories – Lang Lab (LL) Project
+`},instructions:{file:`instrucoes-langlab-02.md`,markdown:`# 🌈 Saved Memories – Lang Lab (LL) Project
 
 Danilo created the **Lang Lab (LL)** project inside his own spaceship Atlas, focused on language teaching. The project takes place in a classroom-like setting featuring:
 

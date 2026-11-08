@@ -67,3 +67,8 @@ Download individual dos 22 ambientes em JPG 1920 × 1080 e conjunto em ZIP. Fich
 ## Ambientes panorâmicos revisados
 
 Ponte de Comando, Saguão Central, Saguão Verde, Copa e Cozinha e Simulador Central recriados em 16:9, sem legendas e sem faixas laterais. Tour, cinco wallpapers individuais e pacote ZIP atualizados. Os outros 17 wallpapers permanecem idênticos.
+
+
+## Tripulação e faixa FTBA
+
+Hangar renomeado; ícones de Kzulo (chave inglesa), Bia (borboleta) e Ravena (cruz médica) atualizados. Regras de personas em painel central no cabeçalho da Tripulação, com download próprio e sem duplicação nas fichas. A faixa FTBA usa arte panorâmica própria em toda a largura.
