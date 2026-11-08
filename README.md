@@ -82,3 +82,8 @@ Nova página `/x-taticas/`: cinco micropersonas com bustos PNG transparentes, lo
 ### Núcleo X-Táticas e pacotes
 
 Ambiente 23 no tour, com imagem Full HD e acesso direto à página X-Táticas. O pacote de wallpapers reúne agora 23 imagens. Na página do núcleo, escolha copiar o prompt (até 8.000 caracteres) ou baixar o ZIP completo com dois TXT, cinco bustos PNG, logotipo e wallpaper do ambiente.
+
+
+### Falas da tripulação
+
+Botões “Ouvir ele/ela” nos sete perfis da home, com balão animado, fundo 96% opaco e opções de outra fala/fechar. Banco editorial com 735 mensagens (105 por persona), todas de até 140 caracteres. Sorteio sem repetição até esgotar cada banco, preservado durante a sessão da aba. Respeita movimento reduzido e a pausa de animações do portal.
