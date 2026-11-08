@@ -72,3 +72,8 @@ Ponte de Comando, Saguão Central, Saguão Verde, Copa e Cozinha e Simulador Cen
 ## Tripulação e faixa FTBA
 
 Hangar renomeado; ícones de Kzulo (chave inglesa), Bia (borboleta) e Ravena (cruz médica) atualizados. Regras de personas em painel central no cabeçalho da Tripulação, com download próprio e sem duplicação nas fichas. A faixa FTBA usa arte panorâmica própria em toda a largura.
+
+
+## X-Táticas
+
+Nova página `/x-taticas/`: cinco micropersonas com bustos PNG transparentes, logotipo original, origem e créditos, instruções recolhidas e prompt adaptado de menos de 8.000 caracteres com cópia e download TXT. Acesso pelo menu, busca e arquivo da home.
