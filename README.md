@@ -96,4 +96,4 @@ A faixa da FTBA agora faz parte de um conjunto de atalhos com Lang Lab, Núcleo 
 
 ### Gerador de Personas
 
-Módulo /gerador-personas/ com criação guiada, 120 nomes, 12 arquétipos, aparência automática e 84 histórias em quatro temas. Surpreenda-me preenche uma persona inteira. O prompt final tem até 5.000 caracteres, com cópia e download TXT. Acesso pela Criação, arquivo e busca.
+Módulo /gerador-personas/ com criação guiada, 120 nomes, 12 arquétipos, aparência automática e 168 histórias de 1.000+ caracteres em oito temas. Surpreenda-me preenche uma persona inteira. 36 funções, 16 espécies, estilo de texto e sorteios individuais de voz e aparência. O prompt final não tem teto de caracteres, com contagem, cópia e download TXT. Acesso pela Criação, arquivo e busca.
