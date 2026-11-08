@@ -52,3 +52,8 @@ Página `/codice-neural/` com tutorial visual da personalização de Danilo no C
 ## Atlas em movimento
 
 Home, FTBA e Códice Neural possuem fundos etéreos, partículas, órbitas, transições e efeitos nos botões, links e cartões. Três GIFs originais (órbita, radar e sinal) acompanham a identidade. O controle “Atlas em movimento” pausa e retoma a animação, preserva a escolha e respeita a preferência de movimento reduzido. As animações de fundo são suspensas fora da seção visível; a aba oculta pausa as animações CSS.
+
+
+## Lang Lab
+
+Página `/lang-lab/` com Gina e Alex, fichas em seções expansíveis, instruções completas, cópia e downloads dos documentos originais, aula simulada Volvo com fotos e vocabulário. O Lang Lab é o ambiente 22 do tour, com imagem própria compartilhada pela página.
