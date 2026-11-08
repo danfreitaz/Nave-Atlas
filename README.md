@@ -77,3 +77,8 @@ Hangar renomeado; ícones de Kzulo (chave inglesa), Bia (borboleta) e Ravena (cr
 ## X-Táticas
 
 Nova página `/x-taticas/`: cinco micropersonas com bustos PNG transparentes, logotipo original, origem e créditos, instruções recolhidas e prompt adaptado de menos de 8.000 caracteres com cópia e download TXT. Acesso pelo menu, busca e arquivo da home.
+
+
+### Núcleo X-Táticas e pacotes
+
+Ambiente 23 no tour, com imagem Full HD e acesso direto à página X-Táticas. O pacote de wallpapers reúne agora 23 imagens. Na página do núcleo, escolha copiar o prompt (até 8.000 caracteres) ou baixar o ZIP completo com dois TXT, cinco bustos PNG, logotipo e wallpaper do ambiente.
