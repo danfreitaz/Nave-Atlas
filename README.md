@@ -87,3 +87,8 @@ Ambiente 23 no tour, com imagem Full HD e acesso direto à página X-Táticas. O
 ### Falas da tripulação
 
 Botões “Ouvir ele/ela” nos sete perfis da home, com balão animado, fundo 50% transparente, texto em itálico, cópia com nome e fechamento por clique externo ou X. Banco editorial com 845 mensagens (mais de 100 por persona), todas de até 140 caracteres. Sorteio sem repetição até esgotar cada banco, preservado durante a sessão da aba. Respeita movimento reduzido e a pausa de animações do portal.
+
+
+### Faixas dos núcleos
+
+A faixa da FTBA agora faz parte de um conjunto de atalhos com Lang Lab, Núcleo X-Táticas e Códice Neural. Cada nova faixa tem fundo panorâmico exclusivo e link direto para sua página, com composição adaptada ao desktop e ao celular.
