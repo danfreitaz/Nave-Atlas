@@ -92,3 +92,8 @@ Botões “Ouvir ele/ela” nos sete perfis da home, com balão animado, fundo 5
 ### Faixas dos núcleos
 
 A faixa da FTBA agora faz parte de um conjunto de atalhos com Lang Lab, Núcleo X-Táticas e Códice Neural. Cada nova faixa tem fundo panorâmico exclusivo e link direto para sua página, com composição adaptada ao desktop e ao celular.
+
+
+### Gerador de Personas
+
+Módulo /gerador-personas/ com criação guiada, 120 nomes, 12 arquétipos, aparência automática e 84 histórias em quatro temas. Surpreenda-me preenche uma persona inteira. O prompt final tem até 5.000 caracteres, com cópia e download TXT. Acesso pela Criação, arquivo e busca.
