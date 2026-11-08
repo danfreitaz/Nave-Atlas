@@ -62,3 +62,8 @@ Página `/lang-lab/` com Gina e Alex, fichas em seções expansíveis, instruç�
 ## Wallpapers desktop
 
 Download individual dos 22 ambientes em JPG 1920 × 1080 e conjunto em ZIP. Fichas com setor e responsável destacados. Menu Ambientes e chamada Conhecer o Lang Lab. Atualização de junho removida e títulos de Alex e Gina corrigidos.
+
+
+## Ambientes panorâmicos revisados
+
+Ponte de Comando, Saguão Central, Saguão Verde, Copa e Cozinha e Simulador Central recriados em 16:9, sem legendas e sem faixas laterais. Tour, cinco wallpapers individuais e pacote ZIP atualizados. Os outros 17 wallpapers permanecem idênticos.
