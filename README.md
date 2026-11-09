@@ -102,3 +102,8 @@ Módulo /gerador-personas/ com criação guiada, 120 nomes, 12 arquétipos, apar
 ## Trilha Atlas em WAV
 
 Oito faixas originais em WAV PCM estéreo: 1.536 kbps, 48 kHz (48.000 Hz), 16 bits. Player no início da home e console principal sincronizados, com capa original em vinil holográfico, downloads individuais e álbum completo com capa em ZIP. Áudios distribuídos pela [release do álbum](https://github.com/danfreitaz/Nave-Atlas/releases/tag/atlas-trilha-wav-20261108).
+
+
+## Acervo de Prompts
+
+Módulo `/acervo-prompts/` com 410 prompts em 41 categorias, ícones, 15 autorias narrativas da tripulação, busca no conteúdo, filtros combinados por categoria e persona, paginação e sorteio em popup holográfico. Cópia apenas do texto, sem atribuição da persona e sem download TXT. Funciona com catálogo local, sem API de IA. Acesso pela Criação, busca e Arquivo da home.
