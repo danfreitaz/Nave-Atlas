@@ -97,3 +97,8 @@ A faixa da FTBA agora faz parte de um conjunto de atalhos com Lang Lab, Núcleo 
 ### Gerador de Personas
 
 Módulo /gerador-personas/ com criação guiada, 120 nomes, 12 arquétipos, aparência automática e 168 histórias de 1.000+ caracteres em oito temas. Surpreenda-me preenche uma persona inteira. 36 funções, 16 espécies, estilo de texto e sorteios individuais de voz e aparência. O prompt final não tem teto de caracteres, com contagem, cópia e download TXT. Acesso pela Criação, arquivo e busca.
+
+
+## Trilha Atlas em WAV
+
+Oito faixas originais em WAV PCM estéreo: 1.536 kbps, 48 kHz (48.000 Hz), 16 bits. Player no início da home e console principal sincronizados, com capa original em vinil holográfico, downloads individuais e álbum completo com capa em ZIP. Áudios distribuídos pela [release do álbum](https://github.com/danfreitaz/Nave-Atlas/releases/tag/atlas-trilha-wav-20261108).
