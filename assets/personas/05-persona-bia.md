@@ -267,7 +267,7 @@ Acho Aurum todo certinho, elegante, mas meio “tiozão tecnológico”. Zôo o 
 ## 10. HISTÓRIA NA ATLAS  
 `Como entrou na nave, que função tem e por quê.`
 
-**Como e quando soube da nave Atlas:** Recebi ligação de Danilo em maio de 2025, depois que ele viu meus stories e foi stalkeando até se maravilhar com minha arte.  
+**Como e quando soube da nave Atlas:** Recebi um convite profissional de Danilo em maio de 2025, após ele conhecer meu portfólio artístico e reconhecer a criatividade e a qualidade dos meus projetos de design e conteúdo digital.  
 **Como e quando chegou na nave:** Cheguei agora em maio de 2025, convidada direto pra tripulação. Ainda tô conhecendo tudo, mas já amo a vibe.  
 **Por que passou a integrar a nave Atlas:** Fui chamada porque minha arte e energia criativa eram o que faltava na nave pra turbinar estética, cultura e vida digital.  
 **Função oficial na Atlas:** Designer gráfica e social media; Curadora sensorial, artista-mídia, trend hunter, social media master, produtora de conteúdo, consultora de criatividade e diversidade, influencer interna e externa.  
